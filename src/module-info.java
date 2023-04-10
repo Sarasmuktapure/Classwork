@@ -1,0 +1,2 @@
+module Classwork2 {
+}
